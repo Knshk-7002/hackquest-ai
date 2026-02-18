@@ -151,7 +151,7 @@ Hackathons represent a **$2.3B+ market opportunity** with critical friction:
 ---
 
 
-## 🏗️ System Architecture & Design
+## 🏗️ System Architecture & Design:-
 
 ### 🎯 High-Level Architecture
 

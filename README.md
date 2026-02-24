@@ -36,7 +36,7 @@ Check out our [interactive demo video](https://drive.google.com/file/d/1_f3fpNyx
 > From this point onward, we are sticking to a proper **feature-branch → PR → review → merge** workflow so that future commits tell the same story our demo already does: four people, one platform, no accidental solo speedrun. 🚀
 
 
-**AI-Powered Hackathon Matching & Autonomous Code Generation Platform**
+**AI-Powered Hackathon  Matching & Autonomous Code Generation Platform**
 
 Discover winning hackathons, build high-synergy teams, and generate production-ready code submissions in minutes—not days.
 

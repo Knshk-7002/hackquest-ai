@@ -1,4 +1,4 @@
-# HackQuest AI 🧠⚡
+## HackQuest AI 🧠⚡
 
 [![CI/CD Status](https://github.com/purvanshjoshi/hackquest-ai/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/purvanshjoshi/hackquest-ai/actions)
 [![React](https://img.shields.io/badge/React-18.2-61dafb?style=flat-square&logo=react)](https://react.dev)
